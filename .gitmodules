@@ -1,3 +1,6 @@
 [submodule "Plant_disease_prediction"]
 	path = Plant_disease_prediction
 	url = https://github.com/SairajRajput12/Plant_disease_prediction.git
+[submodule "FertilizerRecommendationAPI"]
+	path = FertilizerRecommendationAPI
+	url = https://github.com/SairajRajput12/FertilizerRecommendationAPI.git
